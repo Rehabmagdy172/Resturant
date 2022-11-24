@@ -1,0 +1,201 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.contanier{
+    width:100% ;
+ padding:10px;
+ margin:10px;
+text-align: center;
+}
+.secshow{
+    width:30% ;
+    float: left;
+   font-family: 'Sniglet', cursive;
+    font-size: 20px;
+   margin: 15px 15px 25px 15px;
+  transition: 3s ;
+  
+  
+  }
+   .secshow:hover{
+    border-radius: 30%;
+    width:30% ;
+    background-color: rgb(221, 221, 230);
+   
+  } 
+  .imgshow{
+    width: 200px;
+     height: 200px;
+     border-radius: 50%;
+  }
+  
+  .headshow{
+    padding:20px 0px;
+    font-size: 20px;
+    font-family: 'Sniglet', cursive;
+    font-weight: bold;
+  }
+  .prashow{
+    font-family: 'Sniglet', cursive;
+   font-size: 20px;
+   line-height: 30px;
+   width: 100%;
+   padding: 10px;
+  }
+  @media screen and  (min-width:567px){
+    .section2 .sec2{
+      width:90%;
+    }
+  } 
+  @media screen and (max-width:500px){
+    .home .headsec1{
+      width:60%;
+       font-size: 60px; 
+       color: white;
+       padding:50px 0px 20px 30px ;
+       margin: 30px 0px 10px 30px;
+       line-height: 20px;
+    }
+    .home .paragsec1{
+      width:70%;
+      font-size :15px;
+      color: white;
+      padding:40px 0px 20px 20px ;
+      margin: 30px 0px 10px 20px;
+      line-height:20px;
+      margin-left: 30px;
+    }
+    .section2 .sec2{
+      width:90%;
+    }
+    .section2{
+      padding:5px;
+   margin:5px;
+   width:95%;
+  
+    }
+    .topsec2 .headsec2{
+      font-size: 55px; 
+      text-align: center;
+    }
+    .topsec2 .paragsec2{
+      /* text-align: center; */
+      
+     line-height: 25px;
+     width:70%;
+    }
+    .nav .search{
+      margin:20px 0px 10px 30px;
+      font-size: 20px;
+        padding: 5px 8px;
+    
+     
+      
+    }
+    /* .topsec2 .headsec2{
+      font-size: 50px; 
+     padding:20px ;
+     margin:20px;
+     line-height:20px;
+    } */
+  }
+  @media screen and (max-width:710px) {
+      
+    .nav.responsive a {
+     
+      display: block;
+      text-align: center;
+    }
+    .nav a{
+      padding: 5px 10px;
+      font-size: 15px;
+     
+    }
+    .nav .links{
+      font-size: 17px;
+    }
+    
+    .home .headsec1{
+      font-size: 50px;
+      padding:50px 0px 20px 20px ;
+    margin: 30px 0px 10px 30px;
+    }
+    .home .paragsec1{
+      font-size:25px;
+      width:50%;
+      line-height: 20px;
+      padding:40px 0px 20px 20px ;
+    margin: 30px 0px 10px 30px;
+    }
+    .home .divsec1{
+      width:80%;
+      font-size: 20px;
+     margin:0px 0px 10px 30px;
+     padding:10px 0px 10px 20px;
+      line-height: 25px;
+      
+    }
+     /* .home .buttonces1{
+      padding: 10px 20px; 
+      margin: 10px 10px 10px 50px;
+    }
+    .home .headsec1{
+      font-size: 50px; 
+    }
+    .home .paragsec1{
+      font-size: 20px; 
+     }  */
+  }
+    
+  
+  @media screen and (min-width:768px){
+    .section2 .sec2{
+      width:100%;
+    }
+    /* .home .headsec1{
+      font-size: 40px; 
+    }   */
+   /* .home .paragsec1{
+    font-size: 20px; 
+   }  */
+   }
+   /* @media screen and (min-width:800px){
+    .home .headsec1{
+      font-size: 50px; 
+    }
+    .home .paragsec1{
+      font-size: 20px; 
+     }
+   }  */
+  @media screen and (min-width:922px){
+    .section2 .sec2{
+      width:80%;
+    }
+    /* .home .headsec1{
+      font-size: 70px; 
+    }
+    .home .paragsec1{
+      font-size: 40px; 
+     } 
+     .topsec2 .paragsec2{
+      font-size:30px ;
+     
+     }
+     .sec2 .parag3sec2{
+      font-size: 30px;
+     }
+     .sec2 .headpra3{
+      font-size: 30px;
+     }
+     .but2{
+      font-size: 20px;
+     }  */
+  }
+  
+   @media screen and (min-width:1200px){
+      .section2 .sec2{
+        width:30%;
+      }
+    
+    } 

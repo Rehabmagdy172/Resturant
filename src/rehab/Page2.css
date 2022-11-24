@@ -1,0 +1,66 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
+*/
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=Sniglet&display=swap');
+.Sec1 {
+    background-color: rgb(27, 26, 26);
+    color: aliceblue;
+    height:  270px auto;
+   
+}
+
+.h-2 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 10px;
+    margin-top: 20px;
+    font-family: 'Italianno', cursive;
+    color: aliceblue;
+}
+
+.p-1 {
+    font-family: 'Sniglet', cursive;
+    text-align: left;
+    padding: 2px;
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: left;
+    /* text-size-adjust: 10px; */
+}
+
+ .btn {
+    text-decoration: none;
+    color:black;
+   
+    font-family: 'Sniglet', cursive;
+     font-size: 50px;
+     padding:0 15px;
+    border-radius: 30px;
+    padding-bottom: 10px;
+    margin: 10px -10px; 
+    text-decoration: none;
+   
+}
+
+.Discount h2 {
+    font-size: 27px;
+    font-weight: bold;
+    font-size: 25px
+}
+
+.Discount p {
+    font-family: 'Sniglet', cursive;
+    font-size: 20px;
+    padding-top: 15px
+}
+
+.Promo h2 {
+    font-size: 27px;
+    font-weight: bold;
+    font-size: 25px
+}
+
+.Promo p {
+    font-family: 'Sniglet', cursive;
+    font-size: 20px;
+    padding-top: 15px
+}

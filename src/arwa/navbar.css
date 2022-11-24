@@ -1,0 +1,42 @@
+.nav{
+    /* overflow: auto; */
+   width: 100%;
+   background-color: rgb(102, 100, 100);
+  
+  
+  }
+  .clr{
+    clear:left;
+  }
+  .search{
+    margin-top: 10px;
+    padding: 5px 5px;
+    border-radius: 30px;
+    border: none;
+    color: rgb(175, 171, 171);
+    float:left;
+   font-size: 15px;
+  }
+  a:hover{
+    color: rgb(237, 237, 243);
+  }
+  .nav .active{
+    background-color: rgb(177, 171, 171);
+  }
+  .ln2{
+    margin-left: 30px;
+  }
+  .links{
+  font-family: 'Sniglet', cursive;
+    text-decoration: none;
+    color:rgb(17, 16, 16);
+    float:left;
+    list-style-type: none;
+   text-transform: capitalize;
+    display: block;
+   text-align: center;
+    padding: 10px 15px;
+    padding-top: 10px;
+   font-size: 25px;
+  }
+  
